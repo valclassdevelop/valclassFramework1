@@ -8,10 +8,10 @@ let propertiesBoxShadow = [
 ]
 
 let valuesBoxShadow = [
-    'text-shadow: 1px 1px 10px rgb(235, 235, 235);',
-    'text-shadow: 1px 1px 10px rgb(204, 204, 204);',
-    'text-shadow:1px 1px 10px rgb(179, 178, 178);',
-    'text-shadow: 1px 1px 10px rgb(146, 146, 146);'
+    'text-shadow: 2px 2px 2px rgb(199, 199, 199);',
+    'text-shadow: 3px 3px 3px rgb(197, 197, 197);',
+    'text-shadow: 3.5px 3.5px 2px rgb(197, 197, 197);',
+    'text-shadow: 4px 4px 2px rgb(173, 173, 173);'
 ]
 
 // pengkondisian
